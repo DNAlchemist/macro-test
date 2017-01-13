@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-01-13T08:55:25" hostname="Ruslans-MBP" time="0.115">
+  <properties/>
+  <testcase name="someLibraryMethod returns true" classname="LibraryTest" time="0.115">
+    <failure message="Condition not satisfied:&#10;&#10;result&#10;|&#10;null&#10;" type="org.spockframework.runtime.ConditionNotSatisfiedError">Condition not satisfied:
+
+result
+|
+null
+
+	at LibraryTest.someLibraryMethod returns true(LibraryTest.groovy:17)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
